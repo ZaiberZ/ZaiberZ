@@ -1,16 +1,35 @@
-### Objetivo laboral 👋
+## Objetivo laboral
 Aprender constantemente para desarrollarme profesionalmente de forma estable y honesta.
 
-#### Sobre Mi
+### Sobre Mi
 - Ing. Sistemas computacionales.
 - Lógica de programación, modelo orientado a objetos (POO), análisis y optimización de códigos, autodidacta y adaptable a nuevos lenguajes de programación. Metodología de desarrollo Scrum.
 
-- Desarrollador .NET (Vb, ASP, C#).
-- Desarrollador Web HTML, CSS, JS, PHP, NodeJS.
-- Frameworks Bootstrap, React.
-- Manejo de Bases de Datos SQL, MySQL, MongoDB.
-
-
+### Habilidades
+#### BackEnd
+- C#
+- SQL
+- MySQL
+- Node con React
+#### FrontEnd
+- HTML
+- CSS
+- JS
+- SASS
+- JQuery
+- Knockout JS
+- JSON
+#### Frameworks
+- Bootstrap
+- React
+- Bootstrap
+- w3-School
+- AntDesign
+##### Bases de Datos
+- SQL
+- MySQL
+- MongoDB
+ 
 <!--
 **ZaiberZ/ZaiberZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

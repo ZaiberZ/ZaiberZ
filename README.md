@@ -2,7 +2,8 @@
 Aprender constantemente para desarrollarme profesionalmente de forma estable y honesta.
 
 ### Sobre Mi
-Lógica de programación, modelo orientado a objetos (POO), análisis y optimización de códigos, autodidacta y adaptable a nuevos lenguajes de programación. Metodología de desarrollo Scrum.
+Lógica de programación, modelo orientado a objetos (POO), análisis y optimización de códigos, autodidacta y adaptable a nuevos lenguajes de programación. <br>
+Metodología de desarrollo Scrum.
 
 ### Habilidades
 #### BackEnd

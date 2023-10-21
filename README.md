@@ -7,6 +7,7 @@ Metodología de desarrollo Scrum.
 
 ### Habilidades
 #### BackEnd
+- .NET
 - C#
 - SQL
 - MySQL

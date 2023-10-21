@@ -1,14 +1,14 @@
-### Hola 👋
+### Objetivo laboral 👋
 Aprender constantemente para desarrollarme profesionalmente de forma estable y honesta.
 
 #### Sobre Mi
-Ing. Sistemas computacionales.
-Lógica de programación, modelo orientado a objetos (POO), análisis y optimización de códigos, autodidacta y adaptable a nuevos lenguajes de programación. Metodología de desarrollo Scrum.
+- Ing. Sistemas computacionales.
+- Lógica de programación, modelo orientado a objetos (POO), análisis y optimización de códigos, autodidacta y adaptable a nuevos lenguajes de programación. Metodología de desarrollo Scrum.
 
-Desarrollador .NET (Vb, ASP, C#).
-Desarrollador Web HTML, CSS, JS, PHP, NodeJS.
-Frameworks Bootstrap, React.
-Manejo de Bases de Datos SQL, MySQL, MongoDB.
+- Desarrollador .NET (Vb, ASP, C#).
+- Desarrollador Web HTML, CSS, JS, PHP, NodeJS.
+- Frameworks Bootstrap, React.
+- Manejo de Bases de Datos SQL, MySQL, MongoDB.
 
 
 <!--

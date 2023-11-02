@@ -30,7 +30,10 @@ Metodología de desarrollo Scrum.
 - SQL
 - MySQL
 - MongoDB
- 
+
+### Links
+- [LinkedIn](https://www.linkedin.com/in/luis-adrian-mr/)<br>
+- [W3School](https://www.w3profile.com/Zaiber)
 <!--
 **ZaiberZ/ZaiberZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

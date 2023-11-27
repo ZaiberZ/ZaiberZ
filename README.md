@@ -24,9 +24,10 @@ Metodología de desarrollo Scrum.
 - Bootstrap
 - React
 - Bootstrap
-- w3-School
+- W3
+- DevExpress
 - AntDesign
-##### Bases de Datos
+#### Bases de Datos
 - SQL
 - MySQL
 - MongoDB
@@ -34,6 +35,7 @@ Metodología de desarrollo Scrum.
 ### Links
 - [LinkedIn](https://www.linkedin.com/in/luis-adrian-mr/)<br>
 - [W3School](https://www.w3profile.com/Zaiber)
+  
 <!--
 **ZaiberZ/ZaiberZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

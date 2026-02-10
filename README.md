@@ -1,44 +1,67 @@
-## Objetivo laboral
-Aprender constantemente para desarrollarme profesionalmente de forma estable y honesta.
+# 👨‍💻 Luis Adrián Mendoza Rivera
+### Backend Developer | .NET | Web APIs | SQL
 
-### Sobre Mi
-Lógica de programación, modelo orientado a objetos (POO), análisis y optimización de códigos, autodidacta y adaptable a nuevos lenguajes de programación. <br>
-Metodología de desarrollo Scrum.
+---
 
-### Habilidades
-#### BackEnd
-- .NET
-- Web Api
-- C#/Vb
-- SQL
-- MySQL
-- Node con React
-#### FrontEnd
-- HTML
-- CSS
-- JS
-- SASS
-- JQuery
-- Knockout JS
-- JSON
-#### Frameworks
-- Bootstrap
-- React
-- Bootstrap
-- W3
-- DevExpress
-- AntDesign
-#### Bases de Datos
-- SQL
-- MySQL
-- MongoDB
+## 🎯 Perfil profesional
+Desarrollador Backend con enfoque en **.NET y Web APIs**, orientado a la calidad del código, buenas prácticas y mejora continua. Autodidacta, adaptable y con experiencia en análisis, optimización y mantenimiento de aplicaciones. Interesado en seguir creciendo profesionalmente en entornos colaborativos y ágiles.
 
-### Links
-- [LinkedIn](https://www.linkedin.com/in/luis-adrian-mr/)<br>
-- [W3School](https://www.w3profile.com/Zaiber)
+---
+
+## 🧠 Sobre mí
+- Sólida lógica de programación  
+- Programación Orientada a Objetos (POO)  
+- Análisis y optimización de código  
+- Enfoque en soluciones mantenibles y escalables  
+- Experiencia con **Scrum / metodologías ágiles**
+
+---
+
+## 🛠️ Habilidades técnicas
+
+### 🔹 Backend
+- .NET / ASP.NET  
+- Web API (REST)  
+- C# / VB.NET  
+- SQL Server  
+- MySQL  
+- Node.js (integración con frontend)
+
+### 🔹 Frontend
+- HTML5  
+- CSS3 / SASS  
+- JavaScript  
+- jQuery  
+- Knockout.js  
+- JSON  
+
+### 🔹 Frameworks & Librerías
+- React  
+- Bootstrap  
+- DevExpress  
+- Ant Design  
+- W3.CSS  
+
+### 🔹 Bases de datos
+- SQL Server  
+- MySQL  
+- MongoDB  
+
+---
+
+## 🌐 Enlaces
+- 💼 [LinkedIn](https://www.linkedin.com/in/luis-adrian-mr/)
+- 📘 [W3Schools Profile](https://www.w3profile.com/Zaiber)
+
+---
+
+## 🚀 Actualmente
+Abierto a nuevas oportunidades como **Backend Developer**, donde pueda aportar valor técnico y seguir creciendo profesionalmente.
   
 <!--
 **ZaiberZ/ZaiberZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+- 💻 [GitHub](https://github.com/ZaiberZ)
 
 Here are some ideas to get you started:
 

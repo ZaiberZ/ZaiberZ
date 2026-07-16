@@ -1,73 +1,85 @@
 # Ing. Luis Adrián Mendoza Rivera 👨‍💻
-### Senior FullStack .NET Developer | Web APIs | .NET 8 | SQL Server | Azure
+### Full Stack .NET Developer | Web APIs | .NET 8 | SQL Server | Docker
 
 ---
 
 ## 🎯 Perfil profesional
-Ingeniero en Sistemas Computacionales con más de 10 años de experiencia en desarrollo de software, especializado en Backend con **.NET** y construcción de **Web APIs** robustas y escalables. Experiencia sólida en NET 8, Entity Framework y SQL Server, trabajando bajo arquitecturas orientadas a servicios.
 
-He colaborado en proyectos modernos con equipos remotos, participando en mejoras evolutivas, optimización de procesos y capacitación técnica de desarrolladores bajo metodologías ágiles (Scrum). Nivel de inglés básico (B1).
+Ingeniero en Sistemas Computacionales con más de 10 años de experiencia en desarrollo de software, especializado en Backend con **.NET** y construcción de **Web APIs**. Experiencia sólida en **.NET 8**, Entity Framework y SQL Server, trabajando bajo arquitecturas orientadas a servicios y buenas prácticas de desarrollo.
+
+He colaborado en proyectos modernos con equipos remotos, participando en mejoras evolutivas, optimización de procesos, integración de sistemas y capacitación técnica de desarrolladores bajo metodologías ágiles (Scrum).
+
+**Nivel de inglés intermedio (B1).**
 
 <!--
 ---
 
 ## 🧠 Sobre mí
-- Programación Orientada a Objetos (POO)  
-- Análisis y optimización de código  
-- Enfoque en soluciones mantenibles y escalables  
+- Programación Orientada a Objetos (POO)
+- Análisis y optimización de código
+- Enfoque en soluciones mantenibles y escalables
 - Experiencia con **Scrum / metodologías ágiles**
 -->
+
 ---
 
 ## 🛠️ Habilidades técnicas
 
 ### 🔹 Backend
-- .NET (C#, ASP.NET, Web API, Blazor)
+- .NET (C#, ASP.NET, Web API)
 - Entity Framework, LINQ
--	Web API, (Swagger, OpenAPI)  
-- Arquitectura por capas y servicios  
-- Consumo y exposición de APIs
-- JWT
+- Swagger / OpenAPI
+- Arquitectura por capas y servicios
+- Consumo y exposición de APIs (REST, SOAP)
+- Autenticación JWT
 
 ### 🔹 Bases de datos
-- SQL Server (Vistas, SP, triggers)
-- MySQL (Vistas, SP, triggers)
-- MongoDB (operaciones CRUD)
+- SQL Server (Views, Stored Procedures, Triggers)
+- MySQL
+- MongoDB (CRUD operations)
 
 ### 🔹 Frontend
-- HTML5, CSS3, SASS, Bootstrap
-- JavaScript (JQuery), React
-- Blazor (Web API)  
-- Razor, Knockout.js  
+- HTML5, CSS3, Bootstrap
+- JavaScript (jQuery), React
+- Blazor, Razor
+- Knockout.js
 
 ### 🔹 Frameworks & Librerías
-- React  
-- Bootstrap  
-- DevExpress  
-- Ant Design  
-- W3.CSS  
+- Bootstrap
+- React
+- DevExpress
+- Ant Design
+- W3.CSS
 
 ### 🔹 Herramientas y DevOps
-- Azure DevOps (Repos, Boards)  
-- GIT
-- Postman  
+- Azure DevOps (Repos, Boards)
+- Git
+- Docker
+- Postman
 - JSON
 
 ### 🔹 Otros
--	Metodologías ágiles (Scrum) 
--	Principios SOLID
+- Metodologías ágiles (Scrum)
+- Programación Orientada a Objetos (POO)
+- Principios SOLID y Clean Code
+- Seguridad TLS 1.2
+- Inglés intermedio (B1)
 
 ---
 
 ## 🌐 Enlaces
+
 - 💼 [LinkedIn](https://www.linkedin.com/in/luis-adrian-mr/)
 - 📘 [W3Schools Profile](https://www.w3profile.com/Zaiber)
 
 ---
 
 ## 🚀 Actualmente
-Abierto a nuevas oportunidades como **Backend NET Developer**, donde pueda aportar valor técnico y seguir creciendo profesionalmente. Y continuo estudiando para mojorar mi nivel de ingles.
-  
+
+Actualmente me encuentro abierto a oportunidades como **Backend .NET Developer** o **Full Stack .NET Developer**, preferentemente en modalidad **remota (México o LATAM)**.
+
+Me interesa participar en proyectos donde pueda aportar experiencia en desarrollo de APIs, integración de sistemas y buenas prácticas de desarrollo, mientras continúo fortaleciendo mis conocimientos en arquitectura de software, tecnologías cloud e inglés profesional.
+
 <!--
 **ZaiberZ/ZaiberZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

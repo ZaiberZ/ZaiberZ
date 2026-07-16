@@ -87,7 +87,7 @@ También he desarrollado proyectos personales utilizando **Firebase**, **AWS Lam
 
 - 🎬 VideoArchive
   WPF + .NET 8 + FFmpeg + Docker
-  [Repository]([https://github.com/ZaiberZ/MensajeriaDeVozPersonal]
+  [Repository](https://github.com/ZaiberZ/VideoArchive)
 
 - 🌐 Asset Management API
   ASP.NET Web API + Dapper + SQL Server + JWT
